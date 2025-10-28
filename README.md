@@ -4,11 +4,17 @@ It not only predicts the footprint but also provides personalized recommendation
 
 📌 Features
 ML Model: Polynomial Regression (outperformed Ridge, Lasso, Linear, and Random Forest)
+
 Accurate Predictions: Uses preprocessed dataset from Kaggle's Individual Carbon Footprint Calculation.
+
 User-Friendly UI: Nature-based, calm, and responsive design built in Streamlit.
+
 Interactive Visuals: Plotly charts & metrics for better insights.
+
 Personalized Recommendations: Lifestyle tips to reduce carbon footprint.
+
 Profile & Data Saving: Users can create profiles and save their past results.
+
 Vehicle Type Handling: Works even for users with walking/cycling habits (NaN handling in vehicle type).
 
 📂 Project Structure
