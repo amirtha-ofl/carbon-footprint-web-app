@@ -1,7 +1,6 @@
 🌱 CarbonCurve - Carbon Footprint calculator using Machine Learning
 CarbonCurve is a machine learning-powered web application built with Streamlit and Polynomial Regression to estimate an individual's carbon footprint based on their lifestyle choices.
 It not only predicts the footprint but also provides personalized recommendations to help reduce it.
-
 📌 Features
 ML Model: Polynomial Regression (outperformed Ridge, Lasso, Linear, and Random Forest)
 Accurate Predictions: Uses preprocessed dataset from Kaggle's Individual Carbon Footprint Calculation.
